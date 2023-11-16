@@ -1,0 +1,22 @@
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.deps.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\obj\Debug\net7.0\refint\App.Infrastructure.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Infrastructure\obj\Debug\net7.0\ref\App.Infrastructure.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.deps.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\obj\Debug\net7.0\refint\App.Infrastructure.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Infrastructure\obj\Debug\net7.0\ref\App.Infrastructure.dll

@@ -1,0 +1,133 @@
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Api.exe
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Api.deps.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Api.runtimeconfig.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Api.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Api.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Application.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Common.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Domain.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Persistence.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Application.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Persistence.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Common.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.csproj.AssemblyReference.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfoInputs.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfo.cs
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.csproj.CoreCompileInputs.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.App.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.App.Api.props
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.App.Api.props
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.App.Api.props
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\scopedcss\bundle\App.Api.styles.css
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.csproj.CopyComplete
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\refint\App.Api.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\App.Api.genruntimeconfig.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\obj\Debug\net7.0\ref\App.Api.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\refint\App.Api.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Api.exe
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Api.deps.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Api.runtimeconfig.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Api.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Api.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Application.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Common.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Domain.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Persistence.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Application.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Persistence.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Common.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.csproj.AssemblyReference.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfoInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.AssemblyInfo.cs
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.csproj.CoreCompileInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.App.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.App.Api.props
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.App.Api.props
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.App.Api.props
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\scopedcss\bundle\App.Api.styles.css
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.csproj.CopyComplete
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\App.Api.genruntimeconfig.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\obj\Debug\net7.0\ref\App.Api.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Web.deps.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Web.runtimeconfig.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Web.staticwebassets.runtime.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Web.exe
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Api.staticwebassets.runtime.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Web.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Api\bin\Debug\net7.0\App.Web.pdb

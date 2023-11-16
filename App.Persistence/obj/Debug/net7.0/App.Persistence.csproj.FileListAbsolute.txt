@@ -1,0 +1,42 @@
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\bin\Debug\net7.0\App.Persistence.deps.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\bin\Debug\net7.0\App.Persistence.runtimeconfig.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\bin\Debug\net7.0\App.Persistence.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\bin\Debug\net7.0\App.Persistence.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\bin\Debug\net7.0\App.Domain.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\App.Persistence.csproj.AssemblyReference.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\App.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\App.Persistence.AssemblyInfoInputs.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\App.Persistence.AssemblyInfo.cs
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\App.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\App.Persistence.csproj.CopyComplete
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\App.Persistence.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\refint\App.Persistence.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\App.Persistence.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\App.Persistence.genruntimeconfig.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Persistence\obj\Debug\net7.0\ref\App.Persistence.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Persistence.deps.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Persistence.runtimeconfig.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Persistence.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Persistence.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Domain.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.csproj.AssemblyReference.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.AssemblyInfoInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.AssemblyInfo.cs
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.csproj.CopyComplete
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\refint\App.Persistence.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.genruntimeconfig.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\ref\App.Persistence.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.deps.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.runtimeconfig.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\appsettings.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.staticwebassets.runtime.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.exe
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.pdb

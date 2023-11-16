@@ -1,0 +1,34 @@
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\bin\Debug\net7.0\App.Application.deps.json
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\bin\Debug\net7.0\App.Application.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\bin\Debug\net7.0\App.Application.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\bin\Debug\net7.0\App.Common.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\bin\Debug\net7.0\App.Domain.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\bin\Debug\net7.0\App.Common.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\App.Application.csproj.AssemblyReference.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfoInputs.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfo.cs
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\App.Application.csproj.CopyComplete
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\App.Application.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\refint\App.Application.dll
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\App.Application.pdb
+C:\Users\criatec\source\repos\api\api test\App.Api\App.Application\obj\Debug\net7.0\ref\App.Application.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\App.Application.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\refint\App.Application.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\App.Application.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\bin\Debug\net7.0\App.Application.deps.json
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\bin\Debug\net7.0\App.Application.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\bin\Debug\net7.0\App.Application.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\bin\Debug\net7.0\App.Common.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\bin\Debug\net7.0\App.Domain.dll
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\bin\Debug\net7.0\App.Common.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\App.Application.csproj.AssemblyReference.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfoInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\App.Application.AssemblyInfo.cs
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\App.Application.csproj.CopyComplete
+C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Application\obj\Debug\net7.0\ref\App.Application.dll

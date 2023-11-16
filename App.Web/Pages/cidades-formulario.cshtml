@@ -1,0 +1,29 @@
+﻿@page "/cidades/formulario"
+<h4>Formulário de Cidades</h4>
+<div class="row">
+    <div class="col-md-3 col-sm-12">
+        <div class="form-group mb-12">
+            <label>Cep</label>
+            <input type="text" name="cep" class="form-control" />
+        </div>
+    </div>
+    <div class="col-md-6 col-sm-12">
+        <div class="form-group mb-12">
+            <label>Cidade</label>
+            <input type="text" name="nome" class="form-control" />
+        </div>
+    </div>
+    <div class="col-md-3 col-sm-12">
+        <div class="form-group mb-12">
+            <label>UF</label>
+            <input type="text" name="uf" class="form-control" />
+        </div>
+    </div>
+</div>
+<div class="row">
+    <button onclick="window.location.href='/cidades'">Cancelar</button>
+    <button onclick="salvar();">Salvar</button>
+</div>
+@section Script {
+    <script src="~/js/pages/cidades-formulario.js"></script>
+}
