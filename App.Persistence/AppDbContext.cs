@@ -14,13 +14,10 @@ namespace App.Persistence
         
         
         }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
         }
-
-
         public DbSet<Cidade> Cidades { get; set; }
         public DbSet<Pessoa> pessoas { get; set; }
         public DbSet<Pokemon> pokemons { get; set; } 

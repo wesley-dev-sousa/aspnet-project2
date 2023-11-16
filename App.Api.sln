@@ -4,6 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Api", "App.Api\App.Api.csproj", "{21E879E7-A05B-414A-8120-BFFDFBD0A732}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6702A222-247D-4765-8004-EA6E029B05C1} = {6702A222-247D-4765-8004-EA6E029B05C1}
+		{B6E1352B-984D-4244-8C25-D02BE49DB8C5} = {B6E1352B-984D-4244-8C25-D02BE49DB8C5}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Application", "App.Application\App.Application.csproj", "{6702A222-247D-4765-8004-EA6E029B05C1}"
 EndProject
@@ -17,6 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Persistence", "App.Pers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Web", "App.Web\App.Web.csproj", "{F046FE51-8991-4B6F-ABFA-7699AC7C6E95}"
 	ProjectSection(ProjectDependencies) = postProject
+		{01F4083B-DB06-44BA-BB6A-C289D2EA56E8} = {01F4083B-DB06-44BA-BB6A-C289D2EA56E8}
 		{F5204ED6-B88A-4F3A-94FB-28742FBE632E} = {F5204ED6-B88A-4F3A-94FB-28742FBE632E}
 	EndProjectSection
 EndProject

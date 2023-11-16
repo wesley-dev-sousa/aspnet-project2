@@ -28,7 +28,7 @@ namespace App.Api.Controllers {
         }
 
         [HttpGet("BuscaPorId")]
-        public JsonResult BuscaPorId(Guid id) {
+        public JsonResult BuscaPorId(int id) {
             try {
                 var obj = _service.BuscaPorId(id);
                 return Json(RetornoApi.Sucesso(obj));
@@ -49,7 +49,7 @@ namespace App.Api.Controllers {
         }
 
         [HttpDelete("Remover")]
-        public JsonResult Remover(Guid id) {
+        public JsonResult Remover(int id) {
             try {
                 _service.Remover(id);
                 return Json(RetornoApi.Sucesso(true));

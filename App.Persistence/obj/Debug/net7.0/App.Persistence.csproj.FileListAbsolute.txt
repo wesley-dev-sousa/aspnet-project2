@@ -32,11 +32,3 @@ C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Per
 C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.pdb
 C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\App.Persistence.genruntimeconfig.cache
 C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\obj\Debug\net7.0\ref\App.Persistence.dll
-C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.deps.json
-C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.runtimeconfig.json
-C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\appsettings.json
-C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.staticwebassets.runtime.json
-C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.exe
-C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.dll
-C:\Users\criatec\Documents\criatec\DesafiosdeCodigo\teste\aspnet-project\App.Persistence\bin\Debug\net7.0\App.Web.pdb

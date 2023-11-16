@@ -1,6 +1,7 @@
-﻿async function CidadeListaCidades() {
+﻿async function CidadeListaCidades(busca) {
     return new Promise((resolve, reject) => {
-        Get('Cidade/ListaCidades').then(function (response) {
+        Get('Cidade/ListaCidades?busca=' + busca).then(function (response) {
+            console.log(response)
             if (response.status === 'success') {
                 resolve(response.data);
             } else {

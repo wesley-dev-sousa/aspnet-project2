@@ -1540,7 +1540,6 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "App.Domain": "1.0.0",
-          "App.Web": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.13",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.11",
           "System.Linq.Expressions": "4.3.0"
@@ -1551,23 +1550,6 @@
         "runtime": {
           "bin/placeholder/App.Persistence.dll": {}
         }
-      },
-      "App.Web/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.13",
-          "Microsoft.EntityFrameworkCore": "7.0.0"
-        },
-        "compile": {
-          "bin/placeholder/App.Web.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/App.Web.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       }
     }
   },
@@ -4746,16 +4728,12 @@
       "type": "project",
       "path": "../App.Persistence/App.Persistence.csproj",
       "msbuildProject": "../App.Persistence/App.Persistence.csproj"
-    },
-    "App.Web/1.0.0": {
-      "type": "project",
-      "path": "../App.Web/App.Web.csproj",
-      "msbuildProject": "../App.Web/App.Web.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "App.Application >= 1.0.0",
+      "App.Domain >= 1.0.0",
       "App.Persistence >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.13",
       "Microsoft.AspNetCore.Authorization >= 7.0.13",
@@ -4794,6 +4772,9 @@
           "projectReferences": {
             "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Application\\App.Application.csproj": {
               "projectPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Application\\App.Application.csproj"
+            },
+            "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Domain\\App.Domain.csproj": {
+              "projectPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Domain\\App.Domain.csproj"
             },
             "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Persistence\\App.Persistence.csproj": {
               "projectPath": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Persistence\\App.Persistence.csproj"
