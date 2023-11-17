@@ -17,6 +17,31 @@
         </div>
     </div>
 </div>
+<div class="col-md-10 col-sm-12">
+    <div class="input-group">
+        <span class="input-group-text" id="basic-addon1">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-filter" viewBox="0 0 16 16">
+                <path d="M6 10.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5zm-2-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-2-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+            </svg>
+        </span>
+        <input type="text" class="form-control" placeholder="Filtro de Busca" aria-label="Input group example" aria-describedby="basic-addon1" name="busca" id="busca">
+    </div>
+</div>
+<div class="table-responsive" id="table">
+    <table class="table mb-0">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Cep</th>
+                <th>Cidade</th>
+                <th>UF</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
 @section Scripts {
     <script src="~/js/pages/cidade_Remover.js"></script>
 }
