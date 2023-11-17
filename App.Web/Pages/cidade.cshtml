@@ -1,6 +1,12 @@
 ﻿@page "/cidades"
 <h4>Lista de Cidades</h4>
 <button onclick="window.location.href = '/cidades/formulario'">Adicionar</button>
+<div class="col-md-10 col-sm-12">
+    <div class="form-group mb-12">
+        <label>Filtro de Busca</label>
+        <input type="text" name="busca" id="busca" class="form-control">
+    </div>
+</div>
 <div class="table-responsive" id="table">
     <table class="table mb-0">
         <thead>
