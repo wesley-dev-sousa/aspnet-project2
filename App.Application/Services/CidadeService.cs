@@ -1,6 +1,7 @@
 ﻿using App.Domain.Entities;
 using App.Domain.Interfaces.Application;
 using App.Domain.Interfaces.Repositories;
+using App.Domain.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,7 +26,7 @@ namespace App.Application.Services {
             return obj;
         }
 
-        public List<Cidade> listaCidades(string busca) {
+        public List<Cidade> listaCidades(string? busca) {
             busca = (busca ?? "").ToUpper();
             return _repository.Query(x =>
 
@@ -36,6 +37,23 @@ namespace App.Application.Services {
             )
 
             ).ToList();
+        }
+        public void Editar(Cidade cidade) {
+            var dadosAntigos = _repository.Query(x => x.Id ==
+            cidade.Id).FirstOrDefault();
+            if (dadosAntigos == null) {
+                throw new ArgumentException("Cidade não encontrado.");
+            }
+            Cidade dadosAtualizados = new Cidade
+            {
+                Id = dadosAntigos.Id,
+                Nome = cidade.Nome ?? dadosAntigos.Nome,
+                Uf = cidade.Uf ?? dadosAntigos.Uf,
+                Cep = cidade.Cep ?? dadosAntigos.Cep
+            };
+                _repository.Update(dadosAtualizados);
+                _repository.SaveChanges();
+            
         }
 
         public void Remover(int id) {
