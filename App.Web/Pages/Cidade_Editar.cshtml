@@ -6,6 +6,12 @@
         <div class="row">
             <div class="col-md-3 col-sm-12">
                 <div class="form-group mb-12">
+                    <label>Id</label>
+                    <input type="text" name="id" class="form-control">
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-12">
+                <div class="form-group mb-12">
                     <label>Cep</label>
                     <input type="text" name="cep" class="form-control">
                 </div>
@@ -24,12 +30,11 @@
             </div>
             <div class="col-md-12 text-right">
                 <button class="btn btn-danger" onclick="window.location.href='/cidades'">Cancelar</button>
-                <button class="btn btn-success" onclick="salvar();">Salvar</button>
+                <button class="btn btn-success" onclick="editar();">Salvar</button>
             </div>
         </div>
     </div>
 </div>
-
 @section Scripts {
     <script src="~/js/pages/cidades-editar.js"></script>
 }
