@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\core\\requester.js"
     },
     {
+      "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\cidades-editar.js",
+      "PackagePath": "staticwebassets\\js\\pages\\cidades-editar.js"
+    },
+    {
       "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\cidades-formulario.js",
       "PackagePath": "staticwebassets\\js\\pages\\cidades-formulario.js"
     },
