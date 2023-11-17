@@ -7,7 +7,11 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <Content Remove="Pages\cidade-editar.cshtml" />
+	  <Compile Remove="Pages\cidadeeditar.cshtml.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Remove="Pages\cidadeeditar.cshtml" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -26,18 +30,6 @@
 	<ItemGroup>
 		<ProjectReference Include="..\App.Common\App.Common.csproj" />
 		<ProjectReference Include="..\App.Persistence\App.Persistence.csproj" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <UpToDateCheckInput Remove="Pages\cidade-editar.cshtml" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <_ContentIncludedByDefault Remove="Pages\cidade-editar.cshtml" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <None Include="Pages\cidade-editar.cshtml" />
 	</ItemGroup>
 
 </Project>
