@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oIEEjsSK05z2idgbVAg6iz8U09hwKvFBHXrhXB3cgi0=",
+  "Hash": "B0v2m34O1hkC1gijgxgWWYGfzexoGGpz76cqpMMFhjI=",
   "Source": "App.Web",
   "BasePath": "_content/App.Web",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\core\\requester.js"
+    },
+    {
+      "Identity": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\cidade_Remover.js",
+      "SourceId": "App.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\",
+      "BasePath": "_content/App.Web",
+      "RelativePath": "js/pages/cidade_Remover.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pages\\cidade_Remover.js"
     },
     {
       "Identity": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\cidades.js",

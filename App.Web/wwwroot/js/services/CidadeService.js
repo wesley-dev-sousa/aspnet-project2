@@ -44,9 +44,9 @@ async function CidadeSalvar(obj) {
     });
 }
 
-async function CidadeEditar(obj) {
+async function CidadeEditar(id) {
     return new Promise((resolve, reject) => {
-        Patch('Cidade/Editar', obj).then(function (response) {
+        Put('Cidade/Editar?id=', id).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {
