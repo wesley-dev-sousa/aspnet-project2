@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\core\\requester.js"
     },
     {
+      "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\Usuario.js",
+      "PackagePath": "staticwebassets\\js\\pages\\Usuario.js"
+    },
+    {
       "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\cidade_Remover.js",
       "PackagePath": "staticwebassets\\js\\pages\\cidade_Remover.js"
     },
@@ -37,8 +41,16 @@
       "PackagePath": "staticwebassets\\js\\pages\\cidades.js"
     },
     {
+      "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\pessoa.js",
+      "PackagePath": "staticwebassets\\js\\pages\\pessoa.js"
+    },
+    {
       "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\services\\CidadeService.js",
       "PackagePath": "staticwebassets\\js\\services\\CidadeService.js"
+    },
+    {
+      "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\services\\PessoaService.js",
+      "PackagePath": "staticwebassets\\js\\services\\PessoaService.js"
     },
     {
       "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\site.js",
