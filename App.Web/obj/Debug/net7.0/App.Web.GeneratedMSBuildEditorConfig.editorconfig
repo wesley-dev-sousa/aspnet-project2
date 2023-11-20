@@ -40,12 +40,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/criatec/Documents/criatec/DesafiosdeCodigo/teste/aspnet-project/App.Web/Pages/pessoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccGVzc29hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/criatec/Documents/criatec/DesafiosdeCodigo/teste/aspnet-project/App.Web/Pages/Pessoa_Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzc29hX0VkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/criatec/Documents/criatec/DesafiosdeCodigo/teste/aspnet-project/App.Web/Pages/Pessoa_Formulario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzc29hX0Zvcm11bGFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/criatec/Documents/criatec/DesafiosdeCodigo/teste/aspnet-project/App.Web/Pages/Pessoa_Remover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzc29hX1JlbW92ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/criatec/Documents/criatec/DesafiosdeCodigo/teste/aspnet-project/App.Web/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/criatec/Documents/criatec/DesafiosdeCodigo/teste/aspnet-project/App.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/criatec/Documents/criatec/DesafiosdeCodigo/teste/aspnet-project/App.Web/Pages/Usuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/criatec/Documents/criatec/DesafiosdeCodigo/teste/aspnet-project/App.Web/Pages/_ViewImports.cshtml]

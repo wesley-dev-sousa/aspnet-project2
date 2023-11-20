@@ -23,6 +23,9 @@ namespace App.Application.Services
             {
                 throw new ArgumentNullException(nameof(pessoa.Nome), "Nome não pode estar vazio.");
             }
+            if (pessoa.DataAniversario == null) {
+                throw new ArgumentNullException(nameof(pessoa.DataAniversario), "Data de Aniversario não pode estar vazia.");
+            }
             if (string.IsNullOrEmpty(pessoa.Email))
             {
                 throw new ArgumentNullException(nameof(pessoa.Email), "Email não pode estar vazio.");
@@ -50,7 +53,9 @@ namespace App.Application.Services
             Pessoa dadosAtualizados = new Pessoa
             {
                 Id = dadosAntigos.Id,
+                CPF = dadosAntigos.CPF,
                 Nome = pessoa.Nome ?? dadosAntigos.Nome,
+                DataAniversario = (pessoa.DataAniversario != null) ? pessoa.DataAniversario : dadosAntigos.DataAniversario,
                 Email = (pessoa.Email != null) ? pessoa.Email :
             dadosAntigos.Email,
                 Senha = (pessoa.Senha != null) ? pessoa.Senha :
@@ -58,6 +63,18 @@ namespace App.Application.Services
             };
             _repository.Update(dadosAtualizados);
             _repository.SaveChanges();
+        }
+        public List<Pessoa> listaPessoas(string? busca) {
+            busca = (busca ?? "").ToUpper();
+            return _repository.Query(x =>
+
+            (
+            x.Nome.ToUpper().Contains(busca) ||
+            x.DataAniversario.ToString().Contains(busca) ||
+            x.CPF.ToString().Contains(busca)
+            )
+
+            ).ToList();
         }
         public void Deletar(int id)
         {

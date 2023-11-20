@@ -14,6 +14,9 @@ namespace App.Domain.Entities
 
         public string Email { get; set; }
 
+        public DateOnly DataAniversario { get; set; }
+        public int CPF { get; set; }
+
         public string Senha { get; set; }
         
     }
