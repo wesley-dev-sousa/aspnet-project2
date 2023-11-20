@@ -14,7 +14,7 @@ function load() {
         data.forEach(obj => {
             $('#table tbody').append('' +
                 '<tr id="obj-' + obj.id + '">' +
-                '<td>' + (obj.nome || '--') + '</td>' +
+                '<td>' + (obj.nomepessoa || '--') + '</td>' +
                 '<td>' + (obj.cpf || '--') + '</td>' +
                 '<td>' + (obj.dataaniversario || '--') + '</td>' +
                 '</tr>');

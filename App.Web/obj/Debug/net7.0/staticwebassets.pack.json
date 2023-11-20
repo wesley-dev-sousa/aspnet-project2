@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\js\\pages\\pessoa.js"
     },
     {
+      "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\pages\\pessoa_formulario.js",
+      "PackagePath": "staticwebassets\\js\\pages\\pessoa_formulario.js"
+    },
+    {
       "Id": "C:\\Users\\criatec\\Documents\\criatec\\DesafiosdeCodigo\\teste\\aspnet-project\\App.Web\\wwwroot\\js\\services\\CidadeService.js",
       "PackagePath": "staticwebassets\\js\\services\\CidadeService.js"
     },

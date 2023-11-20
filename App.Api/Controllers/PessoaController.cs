@@ -15,7 +15,7 @@ namespace App.Api.Controllers
         {
             _pessoaService = pessoaService;
         }
-        [HttpPost("criar")]
+        [HttpPost("Criar")]
         public IActionResult Criar([FromBody] Pessoa pessoa)
         {
             try
