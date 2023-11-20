@@ -1,6 +1,6 @@
-﻿async function PessoaListaPessoas(busca) {
+﻿async function PessoaBuscarLista(busca) {
     return new Promise((resolve, reject) => {
-        Get('Pessoa/ListaPessoas?busca=' + busca).then(function (response) {
+        Get('Pessoa/BuscarLista?busca=' + busca).then(function (response) {
             console.log(response)
             if (response.status === 'success') {
                 resolve(response.data);

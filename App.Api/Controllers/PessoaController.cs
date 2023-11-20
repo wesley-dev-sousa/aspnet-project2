@@ -28,7 +28,7 @@ namespace App.Api.Controllers
                 return Json(RetornoApi.Erro(ex.Message));
             }
         }
-        [HttpPut("editar")]
+        [HttpPut("Editar")]
         public IActionResult Editar([FromBody] Pessoa pessoa)
         {
             try
@@ -41,7 +41,7 @@ namespace App.Api.Controllers
                 return Json(RetornoApi.Erro(ex.Message));
             }
         }
-        [HttpDelete("deletar")]
+        [HttpDelete("Deletar")]
         public IActionResult Deletar([FromHeader] int id)
         {
             try
@@ -54,7 +54,7 @@ namespace App.Api.Controllers
                 return Json(RetornoApi.Erro(ex.Message));
             }
         }
-        [HttpGet("buscarPorId")]
+        [HttpGet("BuscarPorId")]
         public IActionResult BuscarPorId([FromHeader] int id)
         {
             try
@@ -67,7 +67,7 @@ namespace App.Api.Controllers
                 return Json(RetornoApi.Erro(ex.Message));
             }
         }
-        [HttpGet("buscarLista")]
+        [HttpGet("BuscarLista")]
         public IActionResult BuscarLista()
         {
             try
