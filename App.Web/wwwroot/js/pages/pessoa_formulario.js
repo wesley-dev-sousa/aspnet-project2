@@ -1,12 +1,12 @@
 ﻿function criar() {
-    let pessoa = {
-        email: ($("[name='email']").val() || ''),
-        senha: ($("[name='senha']").val() || ''),
+    let obj = {
         nomepessoa: ($("[name='nomepessoa']").val() || ''),
+        cpf: ($("[name='cpf']").val() || ''),
         dataaniversario: ($("[name='dataaniversario']").val() || ''),
-        cpf: ($("[name='cpf']").val() || '')
+        email: ($("[name='email']").val() || ''),
+        senha: ($("[name='senha']").val() || '')
     };
-    PessoaCriar(pessoa).then(function () {
+    PessoaCriar(obj).then(function () {
         window.location.href = '/pessoas';
     }, function (err) {
         alert(err);

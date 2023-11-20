@@ -9,16 +9,10 @@ namespace App.Domain.Interfaces.Application
 {
     public interface IPessoaService
     {
-        void Editar(Pessoa pessoa);
-
-        void Deletar(int id);
-
-        void Criar(Pessoa pessoa);
-
+        List<Pessoa> listaPessoas(string? busca);
         Pessoa BuscarPorId(int id);
-
-        List<Pessoa> BuscarLista();
-
-
+        void Criar(Pessoa obj);
+        void Editar(Pessoa obj);
+        void Deletar(int id);
     }
 }

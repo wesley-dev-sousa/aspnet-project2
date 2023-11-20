@@ -16,11 +16,11 @@ namespace App.Api.Controllers
             _pessoaService = pessoaService;
         }
         [HttpPost("Criar")]
-        public IActionResult Criar([FromBody] Pessoa pessoa)
+        public JsonResult Criar([FromBody]Pessoa obj)
         {
             try
             {
-                _pessoaService.Criar(pessoa);
+                _pessoaService.Criar(obj);
                 return Json(RetornoApi.Sucesso("Pessoa criada com sucesso!"));
             }
             catch (Exception ex)
@@ -42,7 +42,7 @@ namespace App.Api.Controllers
             }
         }
         [HttpDelete("Deletar")]
-        public IActionResult Deletar([FromHeader] int id)
+        public JsonResult Deletar(int id)
         {
             try
             {
@@ -68,12 +68,12 @@ namespace App.Api.Controllers
             }
         }
         [HttpGet("BuscarLista")]
-        public IActionResult BuscarLista()
+        public JsonResult BuscarLista(string? busca)
         {
             try
             {
-                var listaPessoas = _pessoaService.BuscarLista();
-                return Json(RetornoApi.Sucesso(listaPessoas));
+                var pessoa = _pessoaService.listaPessoas(busca);
+                return Json(RetornoApi.Sucesso(pessoa));
             }
             catch (Exception ex)
             {

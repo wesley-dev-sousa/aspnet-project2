@@ -1,5 +1,5 @@
 ﻿$(document).ready(function () {
-    $('#busca').keypress(function (e) {
+    $('#buscaPessoa').keypress(function (e) {
         if (e.which === 13) {
             load();
         }
@@ -8,16 +8,16 @@
 });
 
 function load() {
-    let pessoa = $('[name="busca"]').val();
+    let pessoa = $('[name="buscaPessoa"]').val();
     PessoaBuscarLista(pessoa).then(function (data) {
         $('#table tbody').html('');
-        data.forEach(pessoa => {
+        data.forEach(obj => {
             $('#table tbody').append('' +
-                '<tr id="obj-' + pessoa.id + '">' +
-                '<td>' + (pessoa.id) + '</td>' +
-                '<td>' + (pessoa.nomepessoa || '--') + '</td>' +
-                '<td>' + (pessoa.cpf || '--') + '</td>' +
-                '<td>' + (pessoa.dataaniversario || '--') + '</td>' +
+                '<tr id="obj-' + obj.id + '">' +
+                '<td>' + (obj.id) + '</td>' +
+                '<td>' + (obj.nomepessoa || '--') + '</td>' +
+                '<td>' + (obj.cpf || '--') + '</td>' +
+                '<td>' + (obj.dataaniversario || '--') + '</td>' +
                 '</tr>');
         });
     });

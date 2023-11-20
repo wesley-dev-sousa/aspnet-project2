@@ -10,36 +10,35 @@ using System.Threading.Tasks;
 
 namespace App.Application.Services
 {
-    public class PessoaService : IPessoaService
-    {
+    public class PessoaService : IPessoaService {
         private IRepositoryBase<Pessoa> _repository { get; set; }
         public PessoaService(IRepositoryBase<Pessoa> repository)
         {
             _repository = repository;
         }
-        private void ValidarDados(Pessoa pessoa)
+        private void ValidarDados(Pessoa obj)
         {
-            if (string.IsNullOrEmpty(pessoa.Nome))
+            if (string.IsNullOrEmpty(obj.Nome))
             {
-                throw new ArgumentNullException(nameof(pessoa.Nome), "Nome não pode estar vazio.");
+                throw new ArgumentNullException(nameof(obj.Nome), "Nome não pode estar vazio.");
             }
-            if (pessoa.DataAniversario == null) {
-                throw new ArgumentNullException(nameof(pessoa.DataAniversario), "Data de Aniversario não pode estar vazia.");
+            if (obj.DataAniversario == null) {
+                throw new ArgumentNullException(nameof(obj.DataAniversario), "Data de Aniversario não pode estar vazia.");
             }
-            if (string.IsNullOrEmpty(pessoa.Email))
+            if (string.IsNullOrEmpty(obj.Email))
             {
-                throw new ArgumentNullException(nameof(pessoa.Email), "Email não pode estar vazio.");
+                throw new ArgumentNullException(nameof(obj.Email), "Email não pode estar vazio.");
             }
-            if (string.IsNullOrEmpty(pessoa.Senha))
+            if (string.IsNullOrEmpty(obj.Senha))
             {
-                throw new ArgumentNullException(nameof(pessoa.Senha), "Senha não pode estar vazia.");
+                throw new ArgumentNullException(nameof(obj.Senha), "Senha não pode estar vazia.");
             }
         }
       
-      public void Criar(Pessoa pessoa)
+      public void Criar(Pessoa obj)
         {
-            ValidarDados(pessoa);
-            _repository.Save(pessoa);
+            ValidarDados(obj);
+            _repository.Save(obj);
             _repository.SaveChanges();
         }
         public void Editar(Pessoa pessoa)
@@ -70,8 +69,8 @@ namespace App.Application.Services
 
             (
             x.Nome.ToUpper().Contains(busca) ||
-            x.DataAniversario.ToString().Contains(busca) ||
-            x.CPF.ToString().Contains(busca)
+            x.DataAniversario.ToString().ToUpper().Contains(busca) ||
+            x.CPF.ToString().ToUpper().Contains(busca)
             )
 
             ).ToList();
@@ -88,13 +87,16 @@ namespace App.Application.Services
         }
         public Pessoa BuscarPorId(int id)
         {
-            var obj = _repository.Query(x => x.Id == id).FirstOrDefault();
-            return obj;
+            var pessoa = _repository.Query(x => x.Id == id).FirstOrDefault();
+            return pessoa;
         }
         public List<Pessoa> BuscarLista()
         {
             return _repository.Query(x => 1 == 1).ToList();
         }
 
+        public List<Pessoa> BuscarLista(string? busca) {
+            throw new NotImplementedException();
+        }
     }
 }
