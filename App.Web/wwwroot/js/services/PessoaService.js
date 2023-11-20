@@ -29,9 +29,9 @@ async function PessoaBuscaPorId(id) {
     });
 }
 
-async function PessoaCriar(obj) {
+async function PessoaCriar(pessoa) {
     return new Promise((resolve, reject) => {
-        Post('Pessoa/Criar', obj).then(function (response) {
+        Post('Pessoa/Criar', pessoa).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {
