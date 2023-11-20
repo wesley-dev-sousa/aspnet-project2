@@ -1,8 +1,8 @@
 ﻿function criar() {
     let obj = {
-        nomepessoa: ($("[name='nomepessoa']").val() || ''),
+        nome: ($("[name='nome']").val() || ''),
         cpf: ($("[name='cpf']").val() || ''),
-        dataaniversario: ($("[name='dataaniversario']").val() || ''),
+        dataAniversario: ($("[name='dataAniversario']").val() || ''),
         email: ($("[name='email']").val() || ''),
         senha: ($("[name='senha']").val() || '')
     };

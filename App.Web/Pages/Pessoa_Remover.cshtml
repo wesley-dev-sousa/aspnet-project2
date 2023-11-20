@@ -1,4 +1,49 @@
-﻿@page
-@model App.Web.wwwroot.js.pages.Pessoa_RemoverModel
-@{
+﻿@page "/pessoas/remover"
+
+<h4>Remover Cidades</h4>
+<div class="card">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-3 col-sm-12">
+                <div class="form-group mb-12">
+                    <label>Id</label>
+                    <input type="text" name="id" class="form-control">
+                </div>
+            </div>
+            <div class="col-md-12 text-right">
+                <button class="btn btn-danger" onclick="window.location.href='/cidades'">Cancelar</button>
+                <button class="btn btn-success" onclick="deletar();">Salvar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-md-10 col-sm-12">
+    <div class="input-group">
+        <span class="input-group-text" id="basic-addon1">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-filter" viewBox="0 0 16 16">
+                <path d="M6 10.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5zm-2-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zm-2-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"></path>
+            </svg>
+        </span>
+        <input type="text" class="form-control" placeholder="Filtro de Busca" aria-label="Input group example" aria-describedby="basic-addon1" name="buscaPessoa" id="buscaPessoa">
+    </div>
+</div>
+<div class="table-responsive" id="table">
+    <table class="table mb-0">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>CPF</th>
+                <th>Data de Nascimento</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+
+@section Scripts {
+    <script src="~/js/pages/pessoa_remover.js"></script>
 }

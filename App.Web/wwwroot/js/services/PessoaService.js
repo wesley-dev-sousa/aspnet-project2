@@ -1,6 +1,6 @@
 ﻿async function PessoaBuscarLista(busca) {
     return new Promise((resolve, reject) => {
-        Get('pessoas/BuscarLista?busca=' + busca).then(function (response) {
+        Get('pessoa/BuscarLista?busca=' + busca).then(function (response) {
             console.log(response)
             if (response.status === 'success') {
                 resolve(response.data);
@@ -16,7 +16,7 @@
 
 async function PessoaBuscaPorId(id) {
     return new Promise((resolve, reject) => {
-        Get('pessoas/BuscaPorId?id=' + id).then(function (response) {
+        Get('pessoa/BuscaPorId?id=' + id).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {
@@ -31,7 +31,7 @@ async function PessoaBuscaPorId(id) {
 
 async function PessoaCriar(obj) {
     return new Promise((resolve, reject) => {
-        Post('pessoas/Criar', obj).then(function (response) {
+        Post('pessoa/Criar', obj).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {
@@ -46,7 +46,7 @@ async function PessoaCriar(obj) {
 
 async function PessoaEditar(id) {
     return new Promise((resolve, reject) => {
-        Put('pessoas/Editar?id=', id).then(function (response) {
+        Put('pessoa/Editar?id=', id).then(function (response) {
             if (response.status === 'success') {
                 resolve(response.data);
             } else {

@@ -22,7 +22,8 @@ namespace App.Application.Services
             {
                 throw new ArgumentNullException(nameof(obj.Nome), "Nome não pode estar vazio.");
             }
-            if (obj.DataAniversario == null) {
+            if (string.IsNullOrEmpty(obj.DataAniversario))
+            {
                 throw new ArgumentNullException(nameof(obj.DataAniversario), "Data de Aniversario não pode estar vazia.");
             }
             if (string.IsNullOrEmpty(obj.Email))
@@ -54,7 +55,7 @@ namespace App.Application.Services
                 Id = dadosAntigos.Id,
                 CPF = dadosAntigos.CPF,
                 Nome = pessoa.Nome ?? dadosAntigos.Nome,
-                DataAniversario = (pessoa.DataAniversario != null) ? pessoa.DataAniversario : dadosAntigos.DataAniversario,
+                DataAniversario = dadosAntigos.DataAniversario,
                 Email = (pessoa.Email != null) ? pessoa.Email :
             dadosAntigos.Email,
                 Senha = (pessoa.Senha != null) ? pessoa.Senha :
@@ -69,8 +70,8 @@ namespace App.Application.Services
 
             (
             x.Nome.ToUpper().Contains(busca) ||
-            x.DataAniversario.ToString().ToUpper().Contains(busca) ||
-            x.CPF.ToString().ToUpper().Contains(busca)
+            x.DataAniversario.ToUpper().Contains(busca) ||
+            x.CPF.ToUpper().Contains(busca)
             )
 
             ).ToList();
